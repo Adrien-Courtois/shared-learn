@@ -3,7 +3,8 @@
 - [ ] cluster k8s
 - [ ] monitoring
 - [ ] cluster elasticsearch
-- [ ] AWS
+- [ ] modules terraform déjà réalisés en cours pour AWS
+- [ ] module terraform avec Session manager et EC2 AWS
 ## Update du repo et des submodules 
 Update du repo
 ```
