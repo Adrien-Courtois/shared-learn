@@ -4,3 +4,4 @@
 [submodule "learn-kind"]
 	path = learn-kind
 	url = git@github.com:Adrien-Courtois/learn-kind.git
+	branch = main
