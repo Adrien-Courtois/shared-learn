@@ -1,3 +1,6 @@
 [submodule "ci-cd-infra"]
 	path = ci-cd-infra
 	url = git@github.com:Adrien-Courtois/ci-cd-infra.git
+[submodule "learn-kind"]
+	path = learn-kind
+	url = git@github.com:Adrien-Courtois/learn-kind.git
